@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="22072" appversion="8.0 beta 2" hassounds="0" start="node1">
+  <panorama id="node1">
+    <model file="models/export.ply" loadonstart="0" materials="0" orientation="(180,-2.2502,-7.01671e-15)" position="(0.0006766507258461,-2.8628358357908077,1.4076773864931251)" revealspeed="1.00" revealtype="0" scale="0.047721753980743388" unitsperm="1" useintransitions="1"/>
+    <userdata altitude="0.00" author="" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node1" source="" tags="" title=""/>
+    <view fovmode="2" pannorth="0">
+      <start fov="109.37" mode="orbit" pan="-23.2057" position="(0.8844228172074234,-11.3212386991694487,1.9779345449566463)" projection="4" tilt="-9.45585"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" orientation="(134.686,-13.5027,166.718)" position="(-0.4094591277228332,-2.2320030892140421,-7.4011185194872526)" scale="1" skinid="ht_node" target="" title="" url="{node2}"/>
+      <hotspot description="" id="Point02" orientation="(33.0239,19.8876,-12.4683)" position="(0.5035600422132638,-3.7631172011199148,0.6560303966592043)" scale="1" skinid="ht_node" target="" title="" url="{node3}"/>
+      <hotspot description="" id="Point03" orientation="(-175.446,-2.62939,-179.791)" position="(-0.3247296527446513,-7.6506560488722783,14.1367154200534024)" scale="1" skinid="ht_node" target="" title="" url="{node4}"/>
+      <hotspot description="" id="Point04" orientation="(175.256,-3.20473,179.734)" position="(-0.7135985412582451,-4.6758762500906688,2.8891304460047520)" scale="1" skinid="ht_node" target="" title="" url="{node3}"/>
+      <hotspot description="" id="Point05" orientation="(-166.248,-5.22583,-178.723)" position="(1.7757500536407695,-6.0747880008673532,13.2692030351685037)" scale="1" skinid="ht_url" target="_blank" title="" url=""/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <features>
+      <feature connections="" id="CameraPoint01" orientation="(162.399,-37.3783,169.099)" position="(0.335822,-0.812102,-11.2853)" type="waypoint" weight="1.0"/>
+    </features>
+  </panorama>
+  <panorama id="node2">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="1" preload="1" width="512"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node2" source="" tags="MatrizSLG" title=""/>
+    <view fovmode="2" pannorth="0">
+      <start fov="170" pan="-1.94071" projection="9" tilt="18.7537"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-2.7" skinid="ht_node" target="" tilt="7.13" title="" url="{node3}"/>
+      <hotspot description="" id="Point02" pan="130" skinid="ht_node" target="" tilt="-8.58" title="" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="1" preload="1" width="512"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node3" source="" tags="MatrizSLG" title=""/>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.015" pan="173.461" projection="4" tilt="11.6522"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-6.62" skinid="ht_node" target="" tilt="-15.47" title="" url="{node2}"/>
+      <hotspot description="" id="Point02" pan="174.61" skinid="ht_node" target="" tilt="10.74" title="" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="2048" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2048">
+      <level height="2048" predecode="0" preload="0" width="2048"/>
+      <level height="1024" predecode="0" preload="0" width="1024"/>
+      <level height="512" predecode="1" preload="1" width="512"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node4" source="" tags="MatrizSLG" title=""/>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.015" pan="-175.662" projection="4" tilt="5.20299"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="7.2" skinid="ht_node" target="" tilt="-23.13" title="" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" comment="" copyright="" description="" tags="" title=""/>
+    <autorotate delay="5.00" enabled="1" horizonfromdefview="0" nodedelay="0.00" nodefilter="" noderandom="1" returntohorizon="0.000" speed="0.100" startloaded="0" useanimation="0"/>
+    <transition blendcolor="0x000000" blendtime="1" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="0" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
+    <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+    <hotspots smoothmovement="0">
+      <label background="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" borderalpha="1" bordercolor="0x000000" borderradius="1" enabled="1" height="20" textalpha="1" textcolor="0x000000" width="180" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+    </hotspots>
+  </masternode>
+</tour>
